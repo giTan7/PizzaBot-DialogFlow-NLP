@@ -1,1 +1,1 @@
-# PizzaBot using Goodle DialogFlow, a NLP platform for Coversational Ai
+# PizzaBot using Google DialogFlow, a NLP platform for Coversational Ai
